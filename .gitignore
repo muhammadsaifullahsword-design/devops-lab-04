@@ -1,3 +1,4 @@
 out/
 *.log
 # Ignore log files for Issue 1
+*.swp
